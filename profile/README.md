@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://k1vpn.com/en/">
-    <img src="https://raw.githubusercontent.com/K1VPN/k1vpn-linux/main/snap/gui/k1vpn.png" alt="K1VPN logo" width="112" />
+    <img src="https://raw.githubusercontent.com/K1VPN/.github/main/assets/k1vpn-wordmark.png" alt="K1VPN® full logo" width="520" />
   </a>
   <h1>K1VPN</h1>
   <p><strong>VPN software and privacy tools from K1VPN LLC.</strong></p>
