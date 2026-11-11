@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://k1vpn.com/en/">
-    <img src="https://raw.githubusercontent.com/K1VPN/.github/main/assets/k1vpn-wordmark.png" alt="K1VPN® full logo" width="520" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K1VPN/.github/main/assets/k1vpn-wordmark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K1VPN/.github/main/assets/k1vpn-wordmark-light.png" />
+      <img src="https://raw.githubusercontent.com/K1VPN/.github/main/assets/k1vpn-wordmark-light.png" alt="K1VPN® full logo" width="520" />
+    </picture>
   </a>
   <h1>K1VPN</h1>
   <p><strong>VPN software and privacy tools from K1VPN LLC.</strong></p>
